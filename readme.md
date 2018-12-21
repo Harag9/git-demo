@@ -14,4 +14,4 @@ git add [filename]
 git add .
 
 git commit
-git commit-m "[commit message]"
+git commit -m "[commit message]"
